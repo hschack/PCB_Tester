@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Blackpill")(type "KiCad")(uri "${KIPRJMOD}/Blackpill.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP4551-103E_MS")(type "KiCad")(uri "${KIPRJMOD}/MCP4551/MCP4551-103E_MS.kicad_sym")(options "")(descr ""))
+)
